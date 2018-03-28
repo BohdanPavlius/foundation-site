@@ -1,8 +1,13 @@
 @charset 'utf-8';
 
+@import 'fonts.scss';
 @import 'settings';
 @import 'foundation';
 @import 'motion-ui';
+
+
+
+@import 'style.scss';
 
 @include foundation-global-styles;
 // @include foundation-grid;
